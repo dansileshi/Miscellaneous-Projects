@@ -1,3 +1,3 @@
 # Miscellaneous-Projects
 
-### Data analysis/machine leanring on different public datasets
+### Data analysis/machine learning on different public datasets
